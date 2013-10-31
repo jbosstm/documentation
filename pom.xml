@@ -44,7 +44,7 @@
       <id>tomjenkinson</id>
       <name>Tom Jenkinson</name>
       <email>tom.jenkinson@redhat.com</email>
-      <organization>JBoss</organization>
+      <organization>FOO</organization>
       <organizationUrl>http://www.jboss.org/</organizationUrl>
       <roles>
         <role>project lead</role>
