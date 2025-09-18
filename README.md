@@ -1,5 +1,7 @@
 # Official Documentation of Narayana
 
+## Note: This repository has been merged into the main Narayana repository.
+
 This repository contains the documentation for the various projects within Narayana and the product-specific enhancements.
 
 This Maven project uses the AsciiDoctor Maven plugin to build an HTML website.
